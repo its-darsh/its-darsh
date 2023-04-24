@@ -8,6 +8,5 @@
  	"PY": "Developer",
  	"Js": "Developer",
  	"Rust": "WIP",
- 	"C++": "WIP"
- 	}
+ 	"C++": "WIP"}
 - 📫 Judge me on discord: DARSH#5846
