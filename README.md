@@ -9,4 +9,4 @@
  	"Js": "Developer",
  	"Rust": "WIP",
  	"C++": "WIP"}
-- 📫 Judge me on discord: DARSH#5846
+- 📫 Judge me on discord: DARSH#5846 (@darsh tho)
