@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **discord: ["DARSH#4002", "DARSH#9813"]**
 
-- ⚡ Fun fact **like to be frontend dev under the hood**
+- ⚡ Fun fact: **like to be frontend dev under the hood**
 
 <h3 align="left">Connect with me: I'm currently pretty active on all of my discord accounts and DM are open for everyone!</h3>
 <p align="left">
