@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: **python, AI-Models, SD-Models, GPTs**
 
-- 📫 How to reach me: **discord: ["DARSH#4002", "DARSH#9813"]**
+- 📫 How to reach me: **discord: ["DARSH#4002", "@the.darsh"]**
 
 - ⚡ Fun fact: **like to be frontend dev under the hood**
 
