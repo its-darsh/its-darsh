@@ -10,3 +10,9 @@
 - 📫 How to reach me: **discord: ["its.darsh", "darsh.py", "@the.darsh"]**
 
 - ⚡ Fun fact: **like to be frontend dev under the hood**
+
+<h4 align="left">Connect with me<h4>
+
+```
+I'm currently pretty active on all of my discord accounts and DM are open for everyone!
+```
