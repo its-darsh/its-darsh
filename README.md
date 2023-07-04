@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **JS/TS, React**
 
-- 💬 Ask me about: **python, AI-Models, SD-Models, GPTs**
+- 💬 Ask me about: **Python, SD-Models**
 
 - 📫 How to reach me: **discord: ["its.darsh", "darsh.py", "the.darsh"]**
 
@@ -14,5 +14,5 @@
 <h4 align="left">Connect with me<h4>
 
 ```
-I'm currently pretty active on all of my discord accounts and DM are open for everyone!
+I'm currently pretty active on all of my discord accounts and DMs are open for everyone!
 ```
