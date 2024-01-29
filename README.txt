@@ -1,5 +1,5 @@
 $ whoami -d
-darsh, a software developer from egypt who uses arch linux (by th way) and writes code in rust, python and bash.
+darsh, a software developer from egypt who uses arch linux (by the way) and writes code in rust, python and bash.
 $ cat ~/message.txt | cowsay
  __________________________
 < sorry about my deadcode. >
