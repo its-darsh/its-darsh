@@ -1,3 +1,6 @@
+# cat /usr/share/note.txt
+while you're reading this text right now, there is probably an inocent person/animal got killed or displaced in Gaza by the israeli IDF.
+Me, including ALL of my projects do stand with palestine.
 $ whoami -d
 darsh, a software developer from egypt who uses arch linux (by the way) and writes code in rust, python and bash.
 $ cat ~/message.txt | cowsay
