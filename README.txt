@@ -3,6 +3,12 @@ while you're reading this text right now, there is probably an inocent person/an
 Me, including ALL of my projects do stand with palestine.
 $ whoami -d
 darsh, a software developer from egypt who uses arch linux (by the way) and writes code in rust, python and bash.
+$ grep "-" "what-i-do.txt"
+- one of the brains behind Fabric, a nifty system widgets framework designed for *Nix based operating systems.
+- creator of VoiceFive, a python-based Discord bot that tackles the temporary channels issue.
+- proud founder of the Arabic Linux discord server.
+- proud staff member of ExodiaOS's discord server.
+- contribute to deserving projects (why not?)
 $ cat ~/message.txt | cowsay
  __________________________
 < sorry about my deadcode. >
